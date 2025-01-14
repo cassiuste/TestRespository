@@ -75,6 +75,8 @@
         echo "</ul>";
     }
 
+    // poner un nuevo comentario
+    // Segundo comentario
     // FUNCTIONS
     // array_flip()
     $a1 = array("a" => "red", "b" => "green", "c" => "blue", "d" => "yellow");
